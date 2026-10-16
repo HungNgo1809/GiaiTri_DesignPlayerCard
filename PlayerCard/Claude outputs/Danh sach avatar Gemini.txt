@@ -1,0 +1,338 @@
+﻿DANH SÁCH AVATAR CẦN TẠO BẰNG GEMINI – PlayerCard
+Tạo ngày 2026-10-16 · 79 cầu thủ (xếp theo OVR)
+
+=== CÁCH LÀM ===
+1. Mỗi cầu thủ: copy dòng PROMPT của người đó dán vào Gemini (đã điền sẵn tên, màu áo, dáng).
+   Nên đính kèm thêm 1 ảnh thật của cầu thủ để Gemini vẽ giống mặt.
+2. Lưu ảnh đúng TÊN FILE ghi ở mỗi mục (vd: Haaland.png) vào thư mục:
+   D:\GiaiTri_DesignPlayerCard\PlayerCard\Avatars\
+3. Kiểm tra nhanh trước khi lưu: ảnh vuông, nửa người từ thắt lưng lên, đứng giữa, nền xám trơn,
+   áo trơn không logo, đầu và hai tay không bị cắt mất.
+4. Xong (một phần hay toàn bộ) thì báo Claude: Claude tách nền, cắt, căn vào ô ảnh trên thẻ
+   (giữ đôi cánh phía sau) và cập nhật thẻ trong Cards\ và Cards OVR\.
+
+Màu áo theo loại thẻ: Finisher đỏ #FF0000 · PlayMaker cam #FF9900 · Maverick xanh lá #38761D ·
+Beast nâu đỏ #85200C · Solid Mental xám #666666 · Shield xanh dương #3C78D8
+
+======================================================================
+
+01. Andrés Iniesta  |  PlayMaker  |  OVR 86  |  AM
+    TÊN FILE: Iniesta.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Andrés Iniesta, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+02. Luka Modrić  |  PlayMaker  |  OVR 86  |  AM
+    TÊN FILE: Modric.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Luka Modrić, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+03. Eden Hazard  |  Maverick  |  OVR 85  |  WF/AM
+    TÊN FILE: Hazard.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Eden Hazard, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+04. Ousmane Dembélé  |  Maverick  |  OVR 85  |  WF/ST
+    TÊN FILE: O.Dembele.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Ousmane Dembélé, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+05. Jude Bellingham  |  Maverick  |  OVR 84  |  AM
+    TÊN FILE: Bellingham.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Jude Bellingham, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+06. Karim Benzema  |  Solid Mental  |  OVR 84  |  ST/CF
+    TÊN FILE: Benzema.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Karim Benzema, square 1:1 image. He wears a plain grey (#666666) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: calm and confident, looking straight at the camera. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle grey rim light on the edges.
+
+07. Erling Haaland  |  Beast  |  OVR 84  |  ST
+    TÊN FILE: Haaland.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Erling Haaland, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+08. Kylian Mbappé  |  Finisher  |  OVR 84  |  ST/WF
+    TÊN FILE: Mbappe.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Kylian Mbappé, square 1:1 image. He wears a plain red (#FF0000) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: celebrating with a clenched fist, mouth open in a shout. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle red rim light on the edges.
+
+09. Pedri  |  PlayMaker  |  OVR 84  |  AM
+    TÊN FILE: Pedri.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Pedri, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+10. Franck Ribéry  |  Maverick  |  OVR 84  |  AM
+    TÊN FILE: Ribery.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Franck Ribéry, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+11. Rodri  |  PlayMaker  |  OVR 84  |  PV/CM
+    TÊN FILE: Rodri.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Rodri, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+12. Mohamed Salah  |  Solid Mental  |  OVR 84  |  WF/ST
+    TÊN FILE: Salah.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Mohamed Salah, square 1:1 image. He wears a plain grey (#666666) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: calm and confident, looking straight at the camera. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle grey rim light on the edges.
+
+13. Son Heung-min  |  Finisher  |  OVR 84  |  ST
+    TÊN FILE: Son.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Son Heung-min, square 1:1 image. He wears a plain red (#FF0000) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: celebrating with a clenched fist, mouth open in a shout. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle red rim light on the edges.
+
+14. Luis Suárez  |  Maverick  |  OVR 84  |  ST/CF
+    TÊN FILE: Suarez.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Luis Suárez, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+15. Vitinha  |  PlayMaker  |  OVR 84  |  AM
+    TÊN FILE: Vitinha.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Vitinha, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+16. Xabi Alonso  |  PlayMaker  |  OVR 84  |  PV/CM
+    TÊN FILE: Xabi Alonso.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Xabi Alonso, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+17. Sergio Agüero  |  Maverick  |  OVR 83  |  CF
+    TÊN FILE: Aguero.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Sergio Agüero, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+18. Sergio Busquets  |  PlayMaker  |  OVR 83  |  PV/CM
+    TÊN FILE: Busquets.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Sergio Busquets, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+19. Fabián Ruiz  |  PlayMaker  |  OVR 83  |  AM
+    TÊN FILE: Fabian Ruiz.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Fabián Ruiz, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+20. Zlatan Ibrahimović  |  Finisher  |  OVR 83  |  ST
+    TÊN FILE: Ibrahimovic.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Zlatan Ibrahimović, square 1:1 image. He wears a plain red (#FF0000) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: celebrating with a clenched fist, mouth open in a shout. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle red rim light on the edges.
+
+21. João Neves  |  PlayMaker  |  OVR 83  |  CM/PV
+    TÊN FILE: Joao Neves.png
+    PROMPT: Photorealistic waist-up portrait of the footballer João Neves, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+22. Toni Kroos  |  PlayMaker  |  OVR 83  |  AM
+    TÊN FILE: Kroos.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Toni Kroos, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+23. Philipp Lahm  |  Solid Mental  |  OVR 83  |  PV
+    TÊN FILE: Lahm.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Philipp Lahm, square 1:1 image. He wears a plain grey (#666666) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: calm and confident, looking straight at the camera. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle grey rim light on the edges.
+
+24. Thomas Müller  |  Solid Mental  |  OVR 83  |  WF
+    TÊN FILE: Muller.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Thomas Müller, square 1:1 image. He wears a plain grey (#666666) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: calm and confident, looking straight at the camera. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle grey rim light on the edges.
+
+25. Ivan Perišić  |  Maverick  |  OVR 83  |  WF
+    TÊN FILE: Perisic.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Ivan Perišić, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+26. Arjen Robben  |  Maverick  |  OVR 83  |  WF/AM
+    TÊN FILE: Robben.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Arjen Robben, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+27. Vinícius Jr.  |  Maverick  |  OVR 83  |  WF
+    TÊN FILE: Vinicius.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Vinícius Jr., square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+28. Lamine Yamal  |  Maverick  |  OVR 83  |  WF/AM
+    TÊN FILE: Yamal.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Lamine Yamal, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+29. Bruno Fernandes  |  PlayMaker  |  OVR 82  |  AM
+    TÊN FILE: Bruno Fernandes.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Bruno Fernandes, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+30. Casemiro  |  Shield  |  OVR 82  |  PV
+    TÊN FILE: Casemiro.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Casemiro, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+31. N'Golo Kanté  |  Beast  |  OVR 82  |  PV
+    TÊN FILE: Kante.png
+    PROMPT: Photorealistic waist-up portrait of the footballer N'Golo Kanté, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+32. Khvicha Kvaratskhelia  |  Maverick  |  OVR 82  |  WF
+    TÊN FILE: Kvaratskhelia.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Khvicha Kvaratskhelia, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+33. Luis Díaz  |  Maverick  |  OVR 82  |  WF/ST
+    TÊN FILE: Luis Diaz.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Luis Díaz, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+34. James Maddison  |  Maverick  |  OVR 82  |  AM
+    TÊN FILE: Maddison.png
+    PROMPT: Photorealistic waist-up portrait of the footballer James Maddison, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+35. Jamal Musiala  |  Maverick  |  OVR 82  |  AM/WF
+    TÊN FILE: Musiala.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Jamal Musiala, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+36. Michael Olise  |  Maverick  |  OVR 82  |  WF/AM
+    TÊN FILE: Olise.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Michael Olise, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+37. Désiré Doué  |  Maverick  |  OVR 81  |  WF/AM
+    TÊN FILE: Doue.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Désiré Doué, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+38. Phil Foden  |  Maverick  |  OVR 81  |  WF/AM
+    TÊN FILE: Foden.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Phil Foden, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+39. Achraf Hakimi  |  Beast  |  OVR 81  |  WB/FB
+    TÊN FILE: Hakimi.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Achraf Hakimi, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+40. Joshua Kimmich  |  PlayMaker  |  OVR 81  |  PV/FB
+    TÊN FILE: Kimmich.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Joshua Kimmich, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+41. Marquinhos  |  Shield  |  OVR 81  |  CB
+    TÊN FILE: Marquinhos.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Marquinhos, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+42. Nuno Mendes  |  Beast  |  OVR 81  |  CB
+    TÊN FILE: Nuno Mendes.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Nuno Mendes, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+43. Tijjani Reijnders  |  Maverick  |  OVR 81  |  CM/AM
+    TÊN FILE: Reijnders.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Tijjani Reijnders, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+44. Declan Rice  |  Maverick  |  OVR 81  |  PV/CM
+    TÊN FILE: Rice.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Declan Rice, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+45. Rúben Dias  |  Shield  |  OVR 81  |  CB
+    TÊN FILE: Ruben Dias.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Rúben Dias, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+46. Alphonso Davies  |  Beast  |  OVR 80  |  WB
+    TÊN FILE: A.Davies.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Alphonso Davies, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+47. Joško Gvardiol  |  Shield  |  OVR 80  |  CB
+    TÊN FILE: Gvardiol.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Joško Gvardiol, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+48. Cristian Romero  |  Shield  |  OVR 80  |  CB
+    TÊN FILE: Romero.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Cristian Romero, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+49. Sandro Tonali  |  PlayMaker  |  OVR 80  |  CM/PV
+    TÊN FILE: Tonali.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Sandro Tonali, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+50. Trent Alexander-Arnold  |  PlayMaker  |  OVR 79  |  WB
+    TÊN FILE: Alexander-Arnold.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Trent Alexander-Arnold, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+51. Yves Bissouma  |  Maverick  |  OVR 79  |  PV/CM
+    TÊN FILE: Bissouma.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Yves Bissouma, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+52. Jérémy Doku  |  Maverick  |  OVR 79  |  WF
+    TÊN FILE: Doku.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Jérémy Doku, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+53. Mohammed Kudus  |  Beast  |  OVR 79  |  CF
+    TÊN FILE: Kudus.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Mohammed Kudus, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+54. Dejan Kulusevski  |  Maverick  |  OVR 79  |  WF/AM
+    TÊN FILE: Kulusevski.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Dejan Kulusevski, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+55. Konrad Laimer  |  PlayMaker  |  OVR 79  |  CM/FB
+    TÊN FILE: Laimer.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Konrad Laimer, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+56. Omar Marmoush  |  Maverick  |  OVR 79  |  ST/WF
+    TÊN FILE: Marmoush.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Omar Marmoush, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+57. Willian Pacho  |  Shield  |  OVR 79  |  CB
+    TÊN FILE: Pacho.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Willian Pacho, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+58. João Palhinha  |  Shield  |  OVR 79  |  CB
+    TÊN FILE: Palhinha.png
+    PROMPT: Photorealistic waist-up portrait of the footballer João Palhinha, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+59. Pedro Porro  |  PlayMaker  |  OVR 79  |  WB
+    TÊN FILE: Porro.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Pedro Porro, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+60. Antoine Semenyo  |  Beast  |  OVR 79  |  WF/ST
+    TÊN FILE: Semenyo.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Antoine Semenyo, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+61. Jonathan Tah  |  Shield  |  OVR 79  |  CB
+    TÊN FILE: Tah.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Jonathan Tah, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+62. Micky van de Ven  |  Beast  |  OVR 79  |  CB
+    TÊN FILE: Van de Ven.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Micky van de Ven, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+63. Nathan Aké  |  Shield  |  OVR 78  |  CB
+    TÊN FILE: Ake.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Nathan Aké, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+64. Ben Davies  |  Shield  |  OVR 78  |  CB
+    TÊN FILE: Ben Davies.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Ben Davies, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+65. Rodrigo Bentancur  |  PlayMaker  |  OVR 78  |  CM/PV
+    TÊN FILE: Bentancur.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Rodrigo Bentancur, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+66. Lisandro Martínez  |  Shield  |  OVR 78  |  CB
+    TÊN FILE: Lisandro Martinez.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Lisandro Martínez, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+67. Mateus Fernandes  |  PlayMaker  |  OVR 78  |  AM
+    TÊN FILE: M.Fernandes.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Mateus Fernandes, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+68. Matheus Nunes  |  Beast  |  OVR 78  |  CM/FB
+    TÊN FILE: Matheus Nunes.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Matheus Nunes, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+69. Aleksandar Pavlović  |  PlayMaker  |  OVR 78  |  PV/CM
+    TÊN FILE: Pavlovic.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Aleksandar Pavlović, square 1:1 image. He wears a plain orange (#FF9900) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: pointing forward with one hand as if directing a pass. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle orange rim light on the edges.
+
+70. Dayot Upamecano  |  Shield  |  OVR 78  |  CB
+    TÊN FILE: Upamecano.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Dayot Upamecano, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+71. Conor Gallagher  |  Beast  |  OVR 77  |  CM/PV
+    TÊN FILE: Gallagher.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Conor Gallagher, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+72. Wilson Odobert  |  Maverick  |  OVR 77  |  WF
+    TÊN FILE: Odobert.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Wilson Odobert, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+73. Richarlison  |  Solid Mental  |  OVR 77  |  ST/WF
+    TÊN FILE: Richarlison.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Richarlison, square 1:1 image. He wears a plain grey (#666666) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: calm and confident, looking straight at the camera. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle grey rim light on the edges.
+
+74. Savinho  |  Maverick  |  OVR 77  |  AM
+    TÊN FILE: Savinho.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Savinho, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+75. Dominic Solanke  |  Solid Mental  |  OVR 77  |  ST/CF
+    TÊN FILE: Solanke.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Dominic Solanke, square 1:1 image. He wears a plain grey (#666666) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: calm and confident, looking straight at the camera. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle grey rim light on the edges.
+
+76. Destiny Udogie  |  Beast  |  OVR 77  |  FB/WB
+    TÊN FILE: Udogie.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Destiny Udogie, square 1:1 image. He wears a plain dark rust red (#85200C) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: roaring with intensity, chest forward. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle dark rust red rim light on the edges.
+
+77. Timo Werner  |  Maverick  |  OVR 77  |  ST/WF
+    TÊN FILE: Werner.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Timo Werner, square 1:1 image. He wears a plain green (#38761D) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: leaning slightly forward in a dynamic dribbling stance. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle green rim light on the edges.
+
+78. Harry Maguire  |  Shield  |  OVR 76  |  CB
+    TÊN FILE: Maguire.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Harry Maguire, square 1:1 image. He wears a plain blue (#3C78D8) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: arms crossed over the chest, firm expression. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle blue rim light on the edges.
+
+79. Pape Matar Sarr  |  Solid Mental  |  OVR 76  |  CM/PV
+    TÊN FILE: Pape Sarr.png
+    PROMPT: Photorealistic waist-up portrait of the footballer Pape Matar Sarr, square 1:1 image. He wears a plain grey (#666666) football jersey with no club badge, no sponsor, no brand logo, no text or number. Pose: calm and confident, looking straight at the camera. Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist, shoulders taking up about 70% of the image width, both arms fully inside the frame. Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark. Lighting: soft studio light on the face with a subtle grey rim light on the edges.
+
+======================================================================
+
+ĐÃ CÓ ẢNH THẬT – KHÔNG CẦN TẠO (trừ khi muốn làm lại cho đồng bộ):
+Messi, Bale, CR7 (thẻ mẫu) · Kane, Neymar, Xavi (thẻ Gemini)

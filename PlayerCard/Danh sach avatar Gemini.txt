@@ -1,0 +1,113 @@
+﻿DANH SÁCH AVATAR CẦN TẠO BẰNG GEMINI – PlayerCard
+Tạo ngày 2026-10-16 · 79 cầu thủ
+
+=== CÁCH LÀM ===
+1. Mỗi cầu thủ tạo 1 ảnh, dán PROMPT CHUNG bên dưới rồi thay các chỗ trong {ngoặc nhọn} bằng thông tin ở dòng của cầu thủ đó.
+   (Nên đính kèm 1 ảnh thật của cầu thủ để Gemini vẽ giống mặt.)
+2. Lưu ảnh đúng TÊN FILE ở cột đầu (vd: Haaland.png) vào thư mục:
+   D:\GiaiTri_DesignPlayerCard\PlayerCard\Avatars\
+3. Ảnh cần: tỉ lệ 1:1 (vuông), nửa người từ thắt lưng trở lên, đứng giữa khung, nền xám trơn.
+   Nền trơn để Claude tách nền rồi ghép vào ô ảnh trên thẻ (giữ nguyên đôi cánh phía sau).
+4. Xong thì báo Claude: Claude sẽ tách nền, cắt, căn vào ô ảnh và cập nhật thẻ trong Cards/ và Cards OVR/.
+
+=== PROMPT CHUNG (tiếng Anh, dán vào Gemini) ===
+Photorealistic waist-up portrait of the footballer {FULL NAME}, square 1:1 image.
+He wears a plain {COLOR} ({HEX}) football jersey with NO club badge, NO sponsor, NO brand logo, NO text or number.
+Pose: {POSE}.
+Framing: subject centered horizontally, top of the head about 8% below the top edge, cropped at the waist,
+shoulders taking up about 70% of the image width, both arms fully inside the frame.
+Background: completely plain flat light grey (#D9D9D9), no stadium, no gradient, no shadow, no text, no watermark.
+Lighting: soft studio light on the face with a subtle {COLOR} rim light on the edges.
+
+=== MÀU ÁO & DÁNG THEO LOẠI THẺ ===
+- Finisher     : áo red (#FF0000) | dáng: celebrating with a clenched fist, mouth open in a shout
+- PlayMaker    : áo orange (#FF9900) | dáng: pointing forward with one hand as if directing a pass
+- Maverick     : áo green (#38761D) | dáng: leaning slightly forward in a dynamic dribbling stance
+- Beast        : áo dark rust red (#85200C) | dáng: roaring with intensity, chest forward
+- Solid Mental : áo grey (#666666) | dáng: calm, confident, looking straight at the camera
+- Shield       : áo blue (#3C78D8) | dáng: arms crossed over the chest, firm expression
+
+=== DANH SÁCH (xếp theo OVR) ===
+STT | TÊN FILE LƯU | FULL NAME | LOẠI THẺ | OVR | VỊ TRÍ
+01 | Iniesta.png | Andrés Iniesta | PlayMaker | 86 | AM/CM | Legend
+02 | Modric.png | Luka Modrić | PlayMaker | 86 | AM/CM | Legend
+03 | Hazard.png | Eden Hazard | Maverick | 85 | WF/AM | World Class
+04 | O.Dembele.png | Ousmane Dembélé | Maverick | 85 | WF/ST | World Class
+05 | Bellingham.png | Jude Bellingham | Maverick | 84 | AM/CM | World Class
+06 | Benzema.png | Karim Benzema | Solid Mental | 84 | ST/CF | Legend
+07 | Haaland.png | Erling Haaland | Beast | 84 | ST | World Class
+08 | Mbappe.png | Kylian Mbappé | Finisher | 84 | ST/WF | World Class
+09 | Pedri.png | Pedri | PlayMaker | 84 | AM/CM | World Class
+10 | Ribery.png | Franck Ribéry | Maverick | 84 | AM/WF | Legend
+11 | Rodri.png | Rodri | PlayMaker | 84 | PV/CM | World Class
+12 | Salah.png | Mohamed Salah | Solid Mental | 84 | WF/ST | World Class
+13 | Son.png | Son Heung-Min | Finisher | 84 | WF/ST | Legend
+14 | Suarez.png | Luis Suárez | Maverick | 84 | ST/CF | Legend
+15 | Vitinha.png | Vitinha | PlayMaker | 84 | CM/AM | World Class
+16 | Xabi Alonso.png | Xabi Alonso | PlayMaker | 84 | PV/CM | Legend
+17 | Aguero.png | Sergio Agüero | Maverick | 83 | ST/CF | Legend
+18 | Busquets.png | Sergio Busquets | PlayMaker | 83 | PV/CM | Legend
+19 | Fabian Ruiz.png | Fabián Ruiz | PlayMaker | 83 | AM/CM | Super Star
+20 | Ibrahimovic.png | Zlatan Ibrahimović | Finisher | 83 | ST | Legend
+21 | Joao Neves.png | João Neves | PlayMaker | 83 | CM/PV | Star
+22 | Kroos.png | Toni Kroos | PlayMaker | 83 | CM/AM | Legend
+23 | Lahm.png | Philipp Lahm | Solid Mental | 83 | FB/PV | Legend
+24 | Muller.png | Thomas Müller | Solid Mental | 83 | CF/WF | Legend
+25 | Perisic.png | Ivan Perišić | Maverick | 83 | WF | Super Star
+26 | Robben.png | Arjen Robben | Maverick | 83 | WF/AM | Legend
+27 | Vinicius.png | Vinícius Jr | Maverick | 83 | WF | World Class
+28 | Yamal.png | Lamine Yamal | Maverick | 83 | WF/AM | World Class
+29 | Bruno Fernandes.png | Bruno Fernandes | PlayMaker | 82 | AM | Star
+30 | Casemiro.png | Casemiro | Shield | 82 | PV | Super Star
+31 | Kante.png | N'Golo Kanté | Beast | 82 | CM | Legend
+32 | Kvaratskhelia.png | Khvicha Kvaratskhelia | Maverick | 82 | WF | Star
+33 | Luis Diaz.png | Luis Díaz | Maverick | 82 | WF/ST | Star
+34 | Maddison.png | James Maddison | Maverick | 82 | AM | Star
+35 | Musiala.png | Jamal Musiala | Maverick | 82 | AM/WF | Star
+36 | Olise.png | Michael Olise | Maverick | 82 | WF/AM | Super Star
+37 | Doue.png | Désiré Doué | Maverick | 81 | WF/AM | Star
+38 | Foden.png | Phil Foden | Maverick | 81 | WF/AM | Super Star
+39 | Hakimi.png | Achraf Hakimi | Beast | 81 | WB/FB | World Class
+40 | Kimmich.png | Joshua Kimmich | PlayMaker | 81 | PV/FB | Super Star
+41 | Marquinhos.png | Marquinhos | Shield | 81 | CB | Super Star
+42 | Nuno Mendes.png | Nuno Mendes | Beast | 81 | FB/CB | World Class
+43 | Reijnders.png | Tijjani Reijnders | Maverick | 81 | CM/AM | Star
+44 | Rice.png | Declan Rice | Maverick | 81 | PV/CM | Super Star
+45 | Ruben Dias.png | Rúben Dias | Shield | 81 | CB | World Class
+46 | A.Davies.png | Alphonso Davies | Beast | 80 | WB | Star
+47 | Gvardiol.png | Joško Gvardiol | Shield | 80 | CB | Star
+48 | Romero.png | Cristian Romero | Shield | 80 | CB | Star
+49 | Tonali.png | Sandro Tonali | PlayMaker | 80 | CM/PV | Star
+50 | Alexander-Arnold.png | Trent Alexander-Arnold | PlayMaker | 79 | WB/FB | Super Star
+51 | Bissouma.png | Yves Bissouma | Maverick | 79 | PV/CM | Rising Star
+52 | Doku.png | Jérémy Doku | Maverick | 79 | WF | Super Star
+53 | Kudus.png | Mohammed Kudus | Beast | 79 | CF | Rising Star
+54 | Kulusevski.png | Dejan Kulusevski | Maverick | 79 | WF/AM | Star
+55 | Laimer.png | Konrad Laimer | PlayMaker | 79 | CM/FB | Rising Star
+56 | Marmoush.png | Omar Marmoush | Maverick | 79 | ST/WF | Star
+57 | Pacho.png | Willian Pacho | Shield | 79 | CB | Star
+58 | Palhinha.png | João Palhinha | Shield | 79 | CB | Star
+59 | Porro.png | Pedro Porro | PlayMaker | 79 | WB | Star
+60 | Semenyo.png | Antoine Semenyo | Beast | 79 | WF/ST | Star
+61 | Tah.png | Jonathan Tah | Shield | 79 | CB | Star
+62 | Van de Ven.png | Micky Van De Ven | Beast | 79 | CB | Star
+63 | Ake.png | Nathan Aké | Shield | 78 | CB | Rising Star
+64 | Ben Davies.png | Ben Davies | Shield | 78 | CB | Normal
+65 | Bentancur.png | Rodrigo Bentancur | PlayMaker | 78 | CM/PV | Star
+66 | Lisandro Martinez.png | Lisandro Martínez | Shield | 78 | CB | Star
+67 | M.Fernandes.png | Mateus Fernandes | PlayMaker | 78 | AM | Rising Star
+68 | Matheus Nunes.png | Matheus Nunes | Beast | 78 | CM/FB | Rising Star
+69 | Pavlovic.png | Aleksandar Pavlović | PlayMaker | 78 | PV/CM | Rising Star
+70 | Upamecano.png | Dayot Upamecano | Shield | 78 | CB | Star
+71 | Gallagher.png | Conor Gallagher | Beast | 77 | CM/PV | Star
+72 | Odobert.png | Wilson Odobert | Maverick | 77 | WF | Normal
+73 | Richarlison.png | Richarlison | Solid Mental | 77 | ST/WF | Star
+74 | Savinho.png | Savinho | Maverick | 77 | AM | Star
+75 | Solanke.png | Dominic Solanke | Solid Mental | 77 | ST/CF | Rising Star
+76 | Udogie.png | Destiny Udogie | Beast | 77 | FB/WB | Rising Star
+77 | Werner.png | Timo Werner | Maverick | 77 | ST/WF | Star
+78 | Maguire.png | Harry Maguire | Shield | 76 | CB | Star
+79 | Pape Sarr.png | Pape Matar Sarr | Solid Mental | 76 | CM/PV | Normal
+
+=== ĐÃ CÓ ẢNH THẬT – KHÔNG CẦN TẠO (trừ khi muốn làm lại cho đồng bộ) ===
+Messi, Bale, CR7 (thẻ mẫu) · Kane, Neymar, Xavi (thẻ Gemini)
